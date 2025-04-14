@@ -2,7 +2,7 @@
 
 🚀 Aspiring DevOps Engineer | Passionate about Automation, Linux & Cloud  
 🔧 Exploring tools like Git, Docker, Kubernetes & AWS  
-📚 Currently learning GitHub, Branching, and CI/CD  
+📚 Currently learning GitHub and CI/CD  
 💡 Always curious to learn and grow in the world of DevOps!
 
 ---
