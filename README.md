@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jasudh!
 
-<!--
-**jasudh/jasudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer | Passionate about Automation, Linux & Cloud  
+🔧 Exploring tools like Git, Docker, Kubernetes & AWS  
+📚 Currently learning GitHub, Branching, and CI/CD  
+💡 Always curious to learn and grow in the world of DevOps!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tools & Technologies
+
+- 🐧 Linux (WSL, Ubuntu)
+- 🧰 Git & GitHub
+- 🐳 Docker (Basics)
+- ☁️ Cloud: AWS (beginner)
+- 📜 YAML, Bash Scripting
+- 📦 VS Code, Vim
+
+---
+
+## 📊 GitHub Stats
+
+![Jasudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasudh&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasudh&layout=compact&theme=tokyonight)
+
+---
+
+_Thanks for visiting my profile! 🌟_
