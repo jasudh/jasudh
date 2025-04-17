@@ -17,7 +17,7 @@ jobs:
           echo "🎉 This is a test artifact!" > output/hello.txt
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: demo-artifact
           path: output/hello.txt
