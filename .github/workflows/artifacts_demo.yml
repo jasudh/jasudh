@@ -17,7 +17,7 @@ jobs:
           ls -la  # This will list the files in the repo
           
       - name: Upload artifact
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: demo-artifact
           path: output/hello.txt
