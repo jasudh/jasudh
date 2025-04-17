@@ -1,0 +1,12 @@
+name: manual workflow demo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps: 
+      - name: print greeting
+        run: echo "👋 Hello! This workflow was triggered manually!"
