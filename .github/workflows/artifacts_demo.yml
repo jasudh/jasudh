@@ -15,3 +15,9 @@ jobs:
         run: |
           echo "Files in the repo:"
           ls -la  # This will list the files in the repo
+          
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: demo-artifact
+          path: output/hello.txt
