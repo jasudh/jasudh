@@ -8,16 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # - name: Checkout code
-      #   uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Create a file to store
+      - name: List files
         run: |
-          mkdir output
-          echo "🎉 This is a test artifact!" > output/hello.txt
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: demo-artifact
-          path: output/hello.txt
+          echo "Files in the repo:"
+          ls -la  # This will list the files in the repo
