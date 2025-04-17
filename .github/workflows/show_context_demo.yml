@@ -1,0 +1,10 @@
+name: Show Context Demo
+
+on: workflow_dispatch
+
+jobs:
+  context-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print GitHub Context
+        run: echo "Running on repo ${{ github.repository }} by ${{ github.actor }} on event ${{ github.event_name }}"
