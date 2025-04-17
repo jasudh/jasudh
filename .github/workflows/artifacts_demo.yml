@@ -16,6 +16,11 @@ jobs:
           echo "Files in the repo:"
           ls -la  # This will list the files in the repo
           
+      - name: Create file
+        run: |
+          mkdir -p output
+          echo "Hello, world!" > output/hello.txt
+          
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
