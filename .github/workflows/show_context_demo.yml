@@ -8,5 +8,4 @@ jobs:
     steps:
       - name: Print GitHub Context
         run: echo "Running on repo ${{ github.repository }} by ${{ github.actor }} on event ${{ github.event_name }}"
-      - name: Dump Context
-        run: echo "${{ toJson(github) }}"
+
